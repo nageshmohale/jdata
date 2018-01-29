@@ -3,6 +3,11 @@
 "id":"Ang001",
 "name":"Angualar",
 "price":2700
-
+}],
+  
+  "products":[{
+"id":"LAP001",
+"name":"laptop",
+"price":50000
 }]
 }
